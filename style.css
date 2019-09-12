@@ -1,1 +1,9 @@
+body {
+    background-color: yellowgreen;
+    background-image: url(kenny-mccormick.png);
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-color: blueviolet;
+
+}
 
